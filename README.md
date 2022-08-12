@@ -1,14 +1,12 @@
 Skyworth XR SDK documentation
 ===
 ## Introduction
-Reading this tutorial can help you use the Unity engine to build applications that can run on the Skyworth VR all-in-one machine.
-This tutorial is suitable for developers with certain Unity development experience. If you have no experience in Unity development, please give priority [Learn Unity](https://unity.cn/university).
+This tutorial can help you build an application that can run on Skyworth VR All-in-one with Unity Engine.
+This tutorial is suitable for developers with Unity development experience, and if you have no experience in Unity development, please [learn Unity](https://learn.unity.com/) first.
 
-Before you start, you still need to understand Unity XR related knowledge first. It is recommended to read Unity related documents first. [XR](https://docs.unity3d.com/Manual/XR.html) since this SDK is developed based on Unity XR SDK, follow the management [XR Plugin-in Management](https://docs.unity3d.com/Packages/com.unity.xr.management@3.2/manual/index.html)。In addition, we also provide upper-level interactive tools, you can freely choose to use [Skyworth Interaction Toolkit](articles/skyworth_interaction_tools.md) or Unity interactive tools [XR Ineraction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.10/manual/index.html)
+Before you start, it is still necessary to learn about Unity XR and it is suggested to read documents related to [XR](https://docs.unity3d.com/Manual/XR.html) of Unity first. As this SDK is developed on the basis of Unity XR SDK, it follows the management of [XR Plugin-in Management](https://docs.unity3d.com/Packages/com.unity.xr.management@3.2/manual/index.html). Besides, we also provide upper interaction tools and you can choose and use at your will [Skyworth interaction tool](articles/skyworth_interaction_tools.md) or Unity Interaction tools [XR Ineraction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.10/manual/index.html).
 
-This SDK is a package with a tgz suffix. You don't need to decompress it when you use it, just add it directly through the Package Manager
-
-Please read the developer [documentation](https://skyworthxr.com/xrsdk/200/cn/index.html) for details
+Please read the developer [documentation](https://skyworthxr.com/xrsdk/200/en/index.html) for details
 
 ---
 
