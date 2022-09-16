@@ -8,7 +8,8 @@ Before you start, it is still necessary to learn about Unity XR and it is sugges
 
 Please read the developer [documentation](https://skyworthxr.com/xrsdk/200/en/index.html) for details
 
----
+### Sample works
+- [unity_6dof_sample](https://github.com/skyworthvr/unity_6dof_sample)
 
 Skyworth XR SDK文档
 ===
@@ -21,3 +22,5 @@ Skyworth XR SDK文档
 本SDK是一个tgz后缀的包，使用时无需解压，直接通过Package Manager加入就可以了。
 
 具体信息请阅读[开发者文档](https://skyworthxr.com/xrsdk/200/cn/index.html)
+### 示例工程
+- [unity_6dof_sample](https://github.com/skyworthvr/unity_6dof_sample)
